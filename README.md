@@ -3,6 +3,8 @@
 # Kind Words Messaging Application
   This is a web chat application project inspired by the popular game Kind Words. Users can communicate with each other in real-time. It is built using the Spring Boot framework for the backend and React for the frontend. The project utilizes Maven as the build tool for the backend.
 
+  This project was inspired by a previous hackathon project. The main difference is that this app is using the Spring Boot framework written in Java.
+
   Users are strongly encouraged to use positive, inclusive language in the chat. Make someone else's day brighter by offering words of comfort, sympathy or gentle advice.
   
 ## Features
